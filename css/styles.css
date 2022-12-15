@@ -18,9 +18,11 @@ h3 {
     font-family: 'Share';font-size: 22px;
 }
 
-.carousel-inner {
+.carousel {
     max-width: 800px;
     max-height: 400px;
+    overflow:hidden;
+    margin-bottom: 20px;
 }
 
 .ceo {
